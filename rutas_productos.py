@@ -127,3 +127,4 @@ def eliminar_producto(codigo):
     return redirect(url_for("rutas_productos.productos"))
 
 
+
