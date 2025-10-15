@@ -40,4 +40,3 @@ if __name__ == "__main__":
     # host="0.0.0.0" permite acceso desde la red local
     # debug=True permite reinicio automático ante cambios
     aplicacion.run(host="0.0.0.0", port=5000, debug=True)
-    
